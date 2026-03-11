@@ -1,6 +1,7 @@
 {
-  "/login/[role]/page": "app/login/[role]/page.js",
   "/page": "app/page.js",
-  "/profile/page": "app/profile/page.js",
-  "/login/page": "app/login/page.js"
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/login/page": "app/login/page.js",
+  "/api/use-case/route": "app/api/use-case/route.js",
+  "/profile/page": "app/profile/page.js"
 }
